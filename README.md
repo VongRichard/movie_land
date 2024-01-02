@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# About
+
+MovieLand is a simple Web Application which allows users to search and display details of their favourite Movie. 
+
+This project uses several REACT features such as State, useEffect, Components, Props and uses a public  API: https://www.omdbapi.com/ to obtain movie information.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
